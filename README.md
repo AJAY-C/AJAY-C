@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AJAY-C
+- 👋 Hi, I’m @AJAY C
 - 👀 I’m interested in ... UI Designing , Programming ,Frameworks, Dtabase Management
 - 🌱 I’m currently learning ... Programming
 - 💞️ I’m looking to collaborate on ... Designares And Programmers
